@@ -8,6 +8,8 @@ for x in range(len(ans)):
 for x in range(len(anslist)):
     if anslist[x] == "l" or anslist[x] == "r":
         anslist[x] = "w"
+    if anslist[x] == "L" or anslist[x] == "R":
+        anslist[x] = "W"
     final = final + anslist[x]
 print(final)
 r.withdraw()
