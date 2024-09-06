@@ -4,3 +4,5 @@ The name itself is a reference to Logan Whitehurst and the Junior Science Club's
 What everything does:
 
 owoify: Turns inputted text into OwO furry text and copies it to clipboard. "owoify-py.py" is the Python version.
+
+factorer: Shows all possible factors of an inputted number. 
