@@ -5,4 +5,4 @@ What everything does:
 
 owoify: Turns inputted text into OwO furry text and copies it to clipboard. "owoify-py.py" is the Python version.
 
-factorer: Shows all possible factors of an inputted number. 
+factorer: Shows all possible factors of an inputted number. "factorer-py.py" is the Python version, and purely text-based, while "factorer-html.html" is the HTML version, and has more of a graphical interface. "factorer-html.html" was made originally in Scratch, and converted over using SheepTester's "htmlifier".
